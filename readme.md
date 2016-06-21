@@ -1,1 +1,1 @@
-hellow
+A collection of challenges from the book Data Science Take Home Challenges
